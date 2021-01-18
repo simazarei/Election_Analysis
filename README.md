@@ -48,15 +48,15 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
    -Arapahoe: 6.7% (24,801)
    
 -Which county had the largest number of votes?
-   - _Denver_ with _306,055_ votes had the largest turnout.
+   -Denver with _306,055_ votes had the largest turnout.
 
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-   -_Charles Casper Stockham_ received _23.0%_ and _85,213_ number of votes.
-   -_Diana DeGette_ received _73.8%_ and _272,892_ number of votes.
-   -_Raymon Anthony Doane_ received _3.1%_ and _11,606_ number of votes.
+   -Charles Casper Stockham received _23.0%_ and _85,213_ number of votes.
+   -Diana DeGette received _73.8%_ and _272,892_ number of votes.
+   -Raymon Anthony Doane received _3.1%_ and _11,606_ number of votes.
    
 -Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-   -_Diana DeGette_ who received _73.8%_ and _272,892_ number of votes.
+   -Diana DeGette who received _73.8%_ and _272,892_ number of votes.
    
 ## Election-Audit Summary
 With the help of Python and VS. we created a script that helped us to go through all and every single vote of _369,712_ votes that were cast in three counties. The script runs within less a second to populates the result of an election. The script is written in a way that can be used for different elections by just changing the DataSet in _with open(file_to_load) as election_data_ . The script can be used for elections in larger scales like state, and country. To do this _For Loops_ could be used to count the votes in each state and then with _if_ statement copmares each state and runs the result within the country.
