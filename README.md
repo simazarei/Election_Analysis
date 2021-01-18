@@ -39,7 +39,7 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
 
 
 -How many votes were cast in this congressional election?
-   - The total number of votes were cast is _369,711_.
+   -The total number of votes were cast is _369,711_.
    
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
    County Votes:
@@ -48,7 +48,7 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
    -Arapahoe: 6.7% (24,801)
    
 -Which county had the largest number of votes?
-   -_Denver_ with _306,055_ votes had the largest turnout.
+   - _Denver_ with _306,055_ votes had the largest turnout.
 
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
    -_Charles Casper Stockham_ received _23.0%_ and _85,213_ number of votes.
