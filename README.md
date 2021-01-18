@@ -46,11 +46,11 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
 
    County Votes:
    
-   -Jefferson: 10.5% (38,855)
+      -Jefferson: 10.5% (38,855)
    
-   -Denver: 82.8% (306,055)
+      -Denver: 82.8% (306,055)
    
-   -Arapahoe: 6.7% (24,801)
+      -Arapahoe: 6.7% (24,801)
    
 -Which county had the largest number of votes?
 
