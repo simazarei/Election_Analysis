@@ -47,7 +47,7 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
    
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-   - County Votes:
+   - County's Votes:
    
       -Jefferson: 10.5% (38,855)
    
@@ -59,6 +59,8 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
    - Denver with _306,055_ votes had the largest turnout.
 
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+   - Candidate's Vote:
 
       -Charles Casper Stockham received 23.0% and 85,213 number of votes.
    
