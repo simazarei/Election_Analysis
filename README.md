@@ -39,7 +39,7 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
 
 
 -How many votes were cast in this congressional election?
-   -_369,711_ votes were cast in total.
+   - The total number of votes were cast is _369,711_.
    
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
    County Votes:
