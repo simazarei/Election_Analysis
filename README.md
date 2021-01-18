@@ -13,6 +13,7 @@ Software: Python 3.7.6, Visual Studio 1.52.1
 
 ## Summary
 The analysis of the election shows that: 
+
 -The total vote cast was : 369,711
 -The Candidates were:
    -Charles Casper Stockham
