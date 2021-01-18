@@ -58,11 +58,11 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
 
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-   -Charles Casper Stockham received _23.0%_ and _85,213_ number of votes.
+      -Charles Casper Stockham received _23.0%_ and _85,213_ number of votes.
    
-   -Diana DeGette received _73.8%_ and _272,892_ number of votes.
+      -Diana DeGette received _73.8%_ and _272,892_ number of votes.
    
-   -Raymon Anthony Doane received _3.1%_ and _11,606_ number of votes.
+      -Raymon Anthony Doane received _3.1%_ and _11,606_ number of votes.
    
 -Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
