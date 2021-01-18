@@ -39,18 +39,22 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
 
 
 -How many votes were cast in this congressional election?
+
    -The total number of votes were cast is _369,711_.
    
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
    County Votes:
    -Jefferson: 10.5% (38,855)
    -Denver: 82.8% (306,055)
    -Arapahoe: 6.7% (24,801)
    
 -Which county had the largest number of votes?
+
    -Denver with _306,055_ votes had the largest turnout.
 
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
    -Charles Casper Stockham received _23.0%_ and _85,213_ number of votes.
    -Diana DeGette received _73.8%_ and _272,892_ number of votes.
    -Raymon Anthony Doane received _3.1%_ and _11,606_ number of votes.
