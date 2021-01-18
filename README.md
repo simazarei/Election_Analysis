@@ -47,7 +47,7 @@ The porpuse of this challenge is to help a Colorado Board of Election employee t
    
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-   County Votes:
+   - County Votes:
    
       -Jefferson: 10.5% (38,855)
    
