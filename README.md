@@ -17,7 +17,7 @@ The analysis of the election shows that:
 -The total vote cast was : 369,711
 
 -The Candidates were:
-   -Charles Casper Stockham
+   - Charles Casper Stockham
    -Diana DeGette
    -Raymon Anthony Doane
    
